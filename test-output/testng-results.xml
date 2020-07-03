@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-03T12:17:13 IST" name="Default suite" finished-at="2020-07-03T12:17:31 IST" duration-ms="18442">
+    <groups>
+    </groups>
+    <test started-at="2020-07-03T12:17:13 IST" name="Default test" finished-at="2020-07-03T12:17:31 IST" duration-ms="18442">
+      <class name="test.FirstTest">
+        <test-method is-config="true" signature="beforem()[pri:0, instance:test.FirstTest@762ef0ea]" started-at="2020-07-03T12:17:13 IST" name="beforem" finished-at="2020-07-03T12:17:17 IST" duration-ms="4155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforem -->
+        <test-method signature="test()[pri:0, instance:test.FirstTest@762ef0ea]" started-at="2020-07-03T12:17:17 IST" name="test" finished-at="2020-07-03T12:17:31 IST" duration-ms="14213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- test.FirstTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
